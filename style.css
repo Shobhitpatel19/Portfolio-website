@@ -1,0 +1,101 @@
+
+html{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Verdana;
+
+    }
+
+header{
+    display: flex;
+        justify-content: center;
+        margin: 0rem;
+        background-color: rgb(64, 218, 64);
+        font-size: 1rem;
+}
+
+
+.container{
+    display: flex;
+    background-color: wheat;
+}
+
+
+.showcase_img{
+    width: 25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 14rem;
+    height: 33rem;
+}
+.class1{
+    text-align: center;
+    margin-top: 14rem;
+    margin-left: 5rem;
+}
+ 
+
+.class2{
+    text-align-last: right;
+    background-color: rgb(141, 185, 37);
+    margin-right: 0rem;
+}
+
+.class3{
+    margin-right: 28rem;
+}
+
+.img2{
+    height: 24rem;
+    width: 28rem;
+    margin-left: 2rem;
+}
+
+.img3{
+    height: 24rem;
+    width: 28rem;
+    margin-left: 36rem;
+}
+
+.class4{
+   display: flex;
+   margin-right: 2rem;
+   background-color: wheat;
+}
+
+.class5{
+    margin-top: 0rem;
+    margin-left: 5rem;
+}
+
+.Hover:hover{
+    color: red;
+}
+
+.class6{
+    margin-right: 60rem;
+}
+
+
+.class7{
+    color:yellow;
+    background-color: black;
+    text-align: center;
+    height: 5rem;
+    padding-top: 1rem;
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+
+.class8{
+    background-color:rgb(60, 60, 184) ;
+    color: white;
+}
+
+.class9{
+    margin-left: 2rem;
+}
+
+.skills{
+    margin-left: 22rem;
+}
+
+
